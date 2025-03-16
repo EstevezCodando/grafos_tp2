@@ -32,3 +32,12 @@ Este repositório contém a implementação dos exercícios do TP2 sobre **grafo
 - Implementação de um **grafo não direcionado** representando cidades e estradas.
 - Justificativa sobre a estrutura mais eficiente para armazenar essa informação.
 
+### 🔹 [Ex8 - Detecção de Fraudes Financeiras](Ex8/Ex8_Grafo_Transacao.md)
+- Implementação de um **grafo direcionado** para modelar transações financeiras.
+- Utilização do **algoritmo DFS** para detectar **ciclos financeiros suspeitos**.
+- Análise de medidas preventivas para combater **lavagem de dinheiro**.
+
+### 🔹 [Ex9 - Implementação do Algoritmo BFS](Ex9/Ex9_BFS.md)
+- Implementação do **algoritmo Breadth-First Search (BFS)** para percorrer um grafo.
+- Utilização de uma **fila (FIFO)** para explorar os vértices de forma ordenada.
+- Comparação entre **BFS e DFS** para diferentes aplicações.
